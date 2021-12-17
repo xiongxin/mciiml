@@ -1,0 +1,4 @@
+(executables
+ (names slp)
+ ;  (libraries core base stdio re yojson)
+ )
