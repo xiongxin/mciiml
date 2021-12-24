@@ -1,0 +1,4 @@
+(executables
+ (names rd)
+ ;  (libraries core base stdio re yojson)
+ )
